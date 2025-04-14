@@ -1,0 +1,14 @@
+@charset "utf8"
+
+body{background-color: lightcoral;}
+h1{
+    background-color: lightgreen;
+    color: darkblue;
+}
+h2{
+    color: darkred;
+}
+p{
+    color: darkmagenta;
+    text-align: justify;
+}
